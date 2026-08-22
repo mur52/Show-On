@@ -1,0 +1,6 @@
+{
+  "name": "Show On - Modern Men's Fashion",
+  "description": "Premium contemporary men's fashion atelier featuring verified customer reviews, live consignment tracking, 65 custom menswear listings, and administrator dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
